@@ -11805,11 +11805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\Documents\\_dev\\C#\\MVC\\WebApplication1\\WebApplication1\\Blog.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\Documents\\_dev\\C#\\MVC\\Blog\\Blog\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "C:\\Users\\diego\\Documents\\_dev\\C#\\MVC\\WebApplication1\\WebApplication1\\Blog.csproj",
+      "projectPath": "C:\\Users\\diego\\Documents\\_dev\\C#\\MVC\\Blog\\Blog\\Blog.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\Documents\\_dev\\C#\\MVC\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\diego\\Documents\\_dev\\C#\\MVC\\Blog\\Blog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
